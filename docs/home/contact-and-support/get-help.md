@@ -1,0 +1,13 @@
+---
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/gURIIEuyOfkTUUs64y7l/contact-and-support/get-help
+---
+
+# Get Help
+
+
+
+<table data-view="cards" data-full-width="true"><thead><tr><th></th></tr></thead><tbody><tr><td></td></tr></tbody></table>
+
