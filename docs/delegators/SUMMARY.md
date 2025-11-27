@@ -1,10 +1,8 @@
 # Table of contents
 
-* [Page](README.md)
-
 ## About LPT (Livepeer Token)
 
-* [Why have a token?](about-lpt-livepeer-token/why-have-a-token.md)
+* [Why have a token?](README.md)
 * [Livepeer Token Economics](about-lpt-livepeer-token/livepeer-token-economics.md)
 * [How to get LPT](about-lpt-livepeer-token/how-to-get-lpt.md)
 * [Delegators](about-lpt-livepeer-token/delegators.md)
@@ -23,6 +21,7 @@
 ## Livepeer Treasury
 
 * [Page 3](livepeer-treasury/page-3.md)
+* [Page](livepeer-treasury/page.md)
 
 ## Token Resources
 
