@@ -30,7 +30,7 @@ metaLinks:
 
 Livepeer powers on-demand real-time video streaming and AI pipelines through a full-stack open hardware network, providing users with affordable, verifiable, permissionless enterprise-grade software solutions.
 
-### [<mark style="color:green;">What do you want to do?</mark>](#user-content-fn-1)[^1]
+### [What do you want to do?](#user-content-fn-1)[^1]
 
 Choose your own Livepeer adventure!
 
