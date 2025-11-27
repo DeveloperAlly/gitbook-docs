@@ -1,9 +1,8 @@
 # Table of contents
 
-* [Page](README.md)
-
 ## About Gateways
 
+* [Gateways](README.md)
 * [Page 1](about-gateways/page-1.md)
 * [Choosing a gateway](about-gateways/choosing-a-gateway.md)
 
