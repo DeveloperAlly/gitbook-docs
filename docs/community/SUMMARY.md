@@ -16,7 +16,7 @@
 * [Events Calendar](events-and-community-hours/events-calendar.md)
 * [Interactive Community Steams](events-and-community-hours/interactive-community-steams.md)
 
-## Livepeer Partners
+## Livepeer HUBs
 
-* [Livepeer Partner Hub](livepeer-partners/livepeer-partner-hub.md)
-* [Livepeer Builder Hub](livepeer-partners/livepeer-builder-hub.md)
+* [Livepeer Partner Hub](livepeer-hubs/livepeer-partner-hub.md)
+* [Livepeer Builder Hub](livepeer-hubs/livepeer-builder-hub.md)
