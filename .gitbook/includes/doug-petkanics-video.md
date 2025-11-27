@@ -1,4 +1,0 @@
----
-title: Doug Petkanics Video
----
-
