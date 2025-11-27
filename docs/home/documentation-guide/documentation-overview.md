@@ -1,0 +1,57 @@
+---
+description: >-
+  This page outlines the ethos, objectives & features of the doc's - giving you
+  a clear navigational roadmap
+metaLinks:
+  alternates:
+    - >-
+      https://app.gitbook.com/s/gURIIEuyOfkTUUs64y7l/documentation-guide/documentation-overview
+---
+
+# Documentation Overview
+
+### Doc's Outline
+
+Livepeer is a vibrant and broad ecosystem, and the community is equally diverse, ranging from creators, developers, founders, hardware operators, AI scientists, web3 participants, end-users and many, many more.
+
+Learning is also different for everyone, with user preferences as unique as the community across the following:
+
+* Format (like text, engineering references or video),&#x20;
+* Style of learning (hands-on, reading, visual)
+* Content (ELI5)
+* AI helpers&#x20;
+
+These docs aim to cater, as much as possible, to all segments of the vibrant Livepeer Community.
+
+{% hint style="info" %}
+Have a suggestion for improvement for us? -> \[link]
+{% endhint %}
+
+### Doc's Ethos
+
+These docs aim to make it easy for all users to
+
+* Find the information they are looking for
+* Understand the Livepeer protocol & products
+* Navigate the Livepeer ecosystem
+* Build on the Livepeer protocol
+* Use Livepeer & Ecosystem products for&#x20;
+*
+
+It utilises a streamlined setup & the diaxlis format
+
+
+
+### Doc's User Paths
+
+These doc's are intended to provide a clear zero to hero user journey for the many talented folks in the Livepeer Ecosystem.
+
+Recommended paths for user are below
+
+1. All users interested in understanding the Livepeer Network, Protocol  & Ecosystem
+2. End-users looking for Livepeer Realtime Video or AI plug & play products
+3. Developers building on the Livepeer Video or AI Protocol from tinkerers to founders & enterprise clients
+4. GPU providers & data centres bringing compute to the Livepeer Network
+5. Livepeer Token Holders looking to stake LPT or participate in open governance
+6.
+
